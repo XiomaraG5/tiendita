@@ -1,0 +1,104 @@
+{
+    "seleccionables": [
+        {
+            "id": 1,
+            "nombre": "Aguacate",
+            "precio": "1500",
+            "imagen": "./imagenes/aguacate.png"
+        }
+    ],
+    "frutasyverduras": [
+        {
+            "id": 2,
+            "nombre": "Jitomate",
+            "precio": "7304",
+            "imagen": "./imagenes/jitomate.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Manzana golden",
+            "precio": "6850",
+            "imagen": "./imagenes/manzanaGolden.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Limon",
+            "precio": "2500",
+            "imagen": "./imagenes/limon.png"
+        },
+        {
+            "id": 5,
+            "nombre": "Naranja",
+            "precio": "1500",
+            "imagen": "./imagenes/naranja.png"
+        },
+        {
+            "id": 6,
+            "nombre": "Nopal",
+            "precio": "12362",
+            "imagen": "./imagenes/nopal.png"
+        },
+        {
+            "id": 7,
+            "nombre": "Tomate",
+            "precio": "3000",
+            "imagen": "./imagenes/tomate.png"
+        },
+        {
+            "id": 8,
+            "nombre": "Tomate verde",
+            "precio": "4100",
+            "imagen": "./imagenes/tomateVerde.png"
+        }
+    ],
+    "unitarios": [
+        {
+            "id": 9,
+            "nombre": "Cocacola sin azucar",
+            "precio": "2400",
+            "imagen": "./imagenes/cocacolaSinAzucar.png"
+        },
+        {
+            "id": 10,
+            "nombre": "Cocacola Origina",
+            "precio": "2300",
+            "imagen": "./imagenes/cocacolaOriginal.png"
+        },
+        {
+            "id": 11,
+            "nombre": "Colgate",
+            "precio": "6700",
+            "imagen": "./imagenes/colgate.png"
+        },
+        {
+            "id": 12,
+            "nombre": "Fabuloso",
+            "precio": "6300",
+            "imagen": "./imagenes/fabuloso.png"
+        },
+        {
+            "id": 13,
+            "nombre": "huevos",
+            "precio": "10000",
+            "imagen": "./imagenes/huevos.png"
+        },
+        {
+            "id": 14,
+            "nombre": "Mc Cormick Mayonesa",
+            "precio": "8790",
+            "imagen": "./imagenes/McCormickMayonesa.png"
+        },
+        {
+            "id": 15,
+            "nombre": "Pan Bimbo",
+            "precio": "4200",
+            "imagen": "./imagenes/panBimbo.png"
+        },
+        {
+            "id": 16,
+            "nombre": "Pechuga de pavo",
+            "precio": "32990",
+            "imagen": "./imagenes/pechaPavo.png"
+        }
+    ]
+}
